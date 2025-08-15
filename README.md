@@ -27,7 +27,7 @@
 - Docker & Nginx deployments with GitHub Actions CI/CD  
 - Stress-tested with **K6** for concurrency
 
-🔗 [Live Demo](https://adam19255.github.io/CV2.0/) | [Source Code](https://github.com/Adam19255/final-project-se)
+[Source Code](https://github.com/Adam19255/final-project-se)
 
 ---
 
@@ -48,7 +48,7 @@
 
 ---
 
-<div align="center">
+<div >
   
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adam19255&layout=compact&theme=tokyonight&hide_border=true)  
 
