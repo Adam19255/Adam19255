@@ -1,6 +1,3 @@
-<!-- Banner -->
-<img src="https://i.imgur.com/UPw9A7l.gif" width="100%" alt="Coding Banner">
-
 <h1 align="center">Hi, I'm Adam Shay 👋</h1>
 <h3 align="center">Full-Stack & Back-End Developer 🚀 | B.Sc. Software Engineering</h3>
 
@@ -68,14 +65,9 @@
 
 ---
 
-## 📊 GitHub Stats & Activity
 <div align="center">
   
-![GitHub Streak](https://streak-stats.demolab.com?user=Adam19255&theme=tokyonight&hide_border=true)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adam19255&show_icons=true&theme=tokyonight&hide_border=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adam19255&layout=compact&theme=tokyonight&hide_border=true)  
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Adam19255&theme=tokyo-night&hide_border=true)
 
 </div>
 
