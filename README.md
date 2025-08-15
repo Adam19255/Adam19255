@@ -13,7 +13,7 @@
 
 ## 🛠 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,postgres,mongodb,linux,cpp,c,cs,py,java,npm,express,html,css,js,jquery,postman,docker,nginx,git,github," alt="My Skills" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,postgres,mongodb,express,html,css,js,jquery,npm,linux,cpp,c,cs,py,java,postman,docker,nginx,git,github," alt="My Skills" />
 
 ---
 
