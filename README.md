@@ -57,10 +57,15 @@
 ---
 
 ## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adam%20Shay-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shay-adam/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Adam19255-lightgrey?style=for-the-badge&logo=github)](https://github.com/Adam19255)  
-[![Email](https://img.shields.io/badge/Email-adam19255%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:adam19255@gmail.com)  
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/shay-adam/">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:adam19255@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
+  </a>
+</p>
 ---
 
 ⭐ *"From low-level memory management to full-stack apps — I build scalable, efficient, and user-focused solutions."*
