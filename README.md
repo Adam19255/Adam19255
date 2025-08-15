@@ -13,6 +13,8 @@
 
 ## 🛠 Tech Stack
 
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,cpp,python,java,express,html,css,js" alt="My Skills" />
+
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
